@@ -1,0 +1,32 @@
+.Songolt {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.Home {
+  text-align: center;
+  margin-top: 200px;
+}
+.Login {
+  text-align: center;
+  margin-top: 200px;
+}
+.Register {
+  text-align: center;
+  margin-top: 200px;
+}
+.Logout {
+  text-align: center;
+  margin-top: 200px;
+}
+button {
+  width: 200px;
+  height: 60px;
+  border-radius: 20px;
+  font-size: large;
+}
+button:hover {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+}
